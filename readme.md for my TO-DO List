@@ -1,0 +1,36 @@
+A simple, fast, and responsive To-Do List application built using React, Vite, JavaScript, HTML, and TailwindCSS.
+This project helped me practice component-based UI, state management, and styling using modern frontend tools.
+
+🚀 Features
+
+✔️ Add new tasks
+✔️ Mark tasks as completed
+✔️ Delete tasks
+✔️ Clean and responsive UI
+✔️ Local state management using React hooks
+✔️ Powered by Vite (super fast dev environment)
+✔️ TailwindCSS for modern, utility-based styling
+
+🛠️ Tech Stack
+
+React
+Vite
+JavaScript (ES6+)
+HTML5
+TailwindCSS
+
+💡 What I Learned
+
+-Using React hooks (useState) for managing tasks
+-Building reusable components
+-Setting up a project quickly with Vite
+-Styling efficiently with TailwindCSS utility classes
+-Handling user inputs and UI updates
+
+🤝 Contributing
+
+Pull requests and suggestions are welcome!
+
+🙌 Acknowledgments
+
+Thanks to open-source tools like React, Vite, and TailwindCSS for making frontend development fast and enjoyable.
